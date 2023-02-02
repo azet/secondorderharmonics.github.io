@@ -6,10 +6,10 @@ description: "The Website for high-quality Analog Audio gear & custom builds"
 baseurl: #
 url: # 
 author: Aaron Zauner
-street_address: Zentaplatz 7/18
+#street_address: Zentaplatz 7/18
 city: Vienna
 zip_code: 1050
-country: Austria/EU
+country: Austria - Europe
 phone: "+436646394757"
 
 # homepage tiles
@@ -21,10 +21,9 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/azet
+  Whatsapp: https://wa.link/tifdl9
   Twitter: https://twitter.com/a_z_e_t
-  Facebook: https://www.facebook.com/09bfc52e7a409a13647adb54ec066cec
-  Reverb: https://reverb.com/shop/analog-audio-boutique
+  GitHub: https://github.com/azet
 
 # build settings
 markdown: kramdown

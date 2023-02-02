@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: post
 title: Analog Summing
 description: Tubes, Transformers, Mix Bus Compression and more
 nav-menu: true

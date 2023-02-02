@@ -1,12 +1,12 @@
 ---
 layout: allposts
-title: All posts
+title: 'News &#8214; Posts'
 landing-title: 'All posts'
 nav-menu: true
-description: null
-image: null
-author: null
-show_tile: false
+description: "Posts updating you on our work: products, projects and sales!"
+image: assets/images/frequency-response.jpg
+#image: assets/images/patchcombined.jpg
+author: Aaron Zauner
+show_tile: true
 ---
 
-<h1>All posts</h1>
