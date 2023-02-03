@@ -3,7 +3,10 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-					<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}  <img src="assets/images/tube-flipped.png" class="logo" style="height: 30px; vertical-align: middle; margin: auto; padding: auto; position: relative;" /></strong> <span>{{ site.subtitle }}</span></a>
+	<!-- Page Title, Logo Icon & Subtitle -->
+	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}  <img src="assets/images/tube-flipped.png" class="logo" style="height: 30px; vertical-align: middle; margin: auto; padding: auto; position: relative;" /></strong> 
+	<span>{{ site.subtitle }}</span></a>
+	<!--  Menu drop-dowm -->
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
