@@ -1,4 +1,5 @@
-*.DS_Store
+.cache/*
+.DS_Store
 old/*
 _site/
 .sass-cache/
@@ -7,3 +8,4 @@ Gemfile.lock
 *.gem
 .jekyll-cache
 assets/images/todo/*
+.bundle/*

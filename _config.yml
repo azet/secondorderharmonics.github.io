@@ -6,10 +6,10 @@ description: "The Website for high-quality Analog Audio gear & custom builds"
 baseurl: #
 url: # 
 author: Aaron Zauner
-#street_address: Zentaplatz 7/18
-city: Vienna
+street_address: "[enim/per; analog.sound.boutique]<br />Zentaplatz 7/17"
+city: Wien (Vienna)
 zip_code: 1050
-country: Austria - Europe
+country: Austria / EU
 phone: "+436646394757"
 
 # homepage tiles
