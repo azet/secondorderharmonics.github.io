@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Rental + Hire
+title: Rent + Hire
 description: "From renting out classic console parts to maintaining or modifying equipment during your recording session, we do it all"
-image: assets/images/500.jpg
+image: /assets/images/500.jpg
 nav-menu: true
 ---
 
-### Rental of Analog Gear and tailor made solutions:
+## Rental of Analog Gear and tailor made solutions
 
 | ![img](assets/images/mobile_rack.jpg){:width="500px"} | ![img](assets/images/emiconsole03.jpg){:width="500px"} | ![img](assets/images/la2a.jpg){:width="500px"} |
 

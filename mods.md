@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Mods, Tuning & Measurement
-description: "We do high-quality customization work, modification, tuning and measurement along with refurbishment of your favorite analog gear"
-nav-menu: true
+title: Modifications, Fine Tuning and Measurement
+description: 'High-quality modifications, customization work, refurbishment along with tuning and measurement of your analog gear and for your studio projects'
+menu: true
 image: assets/images/busscat-color-ctx.jpg
 ---
 

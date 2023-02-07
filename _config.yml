@@ -1,12 +1,12 @@
 # site settings
-title: analog.sound.boutique
-subtitle: "Artisnanal Analog Audio Engineering"
+title: '<span style="font: 1.1em serif; letter-spacing: -1px; font-weight: lighter; margin: 2px; padding: 5px;">2𝑓</span> ߹ Second Order Harmonics ߹'
+subtitle: "¦ Artisnanal Analog Audio Engineering…"
 email: analog@sound.boutique
-description: "The Website for high-quality Analog Audio gear & custom builds"
-baseurl: #
+description: "The Website for high-quality Analog Audio gear & custom builds."
+baseurl: /
 url: # 
 author: Aaron Zauner
-street_address: "(&mdash;per&mdash; analog.sound.boutique)<br />Zentaplatz 7/17"
+street_address: "(&mdash;per&mdash; Second Order Harmonics)<br />Zentaplatz 7/17"
 city: Wien (Vienna)
 zip_code: 1050
 country: Austria / EU
