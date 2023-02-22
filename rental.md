@@ -2,7 +2,7 @@
 layout: post
 title: Rent + Hire
 description: "From renting out classic console parts to maintaining or modifying equipment during your recording session, we do it all"
-image: /assets/images/500.jpg
+image: assets/images/500.jpg
 nav-menu: true
 ---
 

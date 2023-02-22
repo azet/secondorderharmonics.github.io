@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Analog Summing
-description: Tubes, Transformers, Mix Bus Compression and more
+title: Summing & Bus Compression
+description: Summing resistors, Warmth via Tubes, Transformers and Bus Compression.
 nav-menu: true
-image: assets/images/summing.jpg
+image: assets/images/tubecore02.jpg
 ---
 
 # Analog Summing
+
+| ![img](assets/images/summing.jpg){:height="450px;"} | ![img](assets/images/summing02.jpg){:height="450px;"} | ![img](assets/images/easysummercollage.jpg){:height="450px;"} |
 
 *via [TapeOp](https://tapeop.com/tutorials/49/analog-summing/)'s J.J. Wiesler*
 
