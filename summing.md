@@ -8,7 +8,7 @@ image: assets/images/tubecore02.jpg
 
 # Analog Summing
 
-| ![img](assets/images/summing.jpg){:height="450px;"} | ![img](assets/images/summing02.jpg){:height="450px;"} | ![img](assets/images/easysummercollage.jpg){:height="450px;"} |
+| ![img](assets/images/easysummercollage.jpg){:width="900px;"} | ![img](assets/images/summing02.jpg){:width="600px;"} | ![img](assets/images/summing.jpg){:width="575px;"} |
 
 *via [TapeOp](https://tapeop.com/tutorials/49/analog-summing/)'s J.J. Wiesler*
 
