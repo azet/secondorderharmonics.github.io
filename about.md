@@ -7,7 +7,17 @@ image: assets/images/marinairs-trans-bg.png
 ---
 
 
-*continued from the introductory text on the [home page](/):*
+## Second Order Harmonics: the kind of Distortion our ears tend to apprechiate
+
+[Harmonics](https://en.wikipedia.org/wiki/Harmonic) are waves of frequencies that are multiples of a so-called <<fundamental>> (i.e. original-- or base) frequency. They are part of music theory and electrical engineering alike; in audio engineering & design there's a common term used to benchmark Distortion in a product, part or audio-chain called [THD](https://en.wikipedia.org/wiki/Total_harmonic_distortion) ([Total Harmonic Distortion](https://en.wikipedia.org/wiki/Total_harmonic_distortion) traditionally written *THD+N*--where *N* stands for *Noise*, as in past times measurement was less accurate and you would include Total Harmonic Distortion and Noise into one metric for ease of measurement.) This practice continues today in audio product specifications, benchmarks and common industry standards --- you'll find these values written out in the details or specs. of products like ADC- & DAC converters, audio interfaces or pre-amplifiers.
+
+> Second-order or ‘even’ harmonics are even-numbered multiples of the fundamental
+> frequencies and create a rich, pleasing sound. Third-order or ‘odd’ harmonics are 
+> odd-numbered multiples of the fundamental frequencies, which give the signal an 
+> edgier, more aggressive sound.
+
+-- from: <https://www.sonarworks.com/blog/learn/when-distortion-is-good>
+
 
 The reason there's been such a big renaissance of analog gear, love of analog consoles for tracking during big recording sessions as well as mixing is closely related to the fact that they are widely considered to add a certain coloration or <<warmth>> to the sound that's pushed through their ([discrete](https://en.wikipedia.org/wiki/Electronic_component)) circuits, that In-The-Box recording techniques don't. It's the reason behind a big market for analog summing devices, high-end analog-to-digital converters, analog outboard gear as well as hybrid set-up techniques where mix engineers and producers work In-The-Box but -- at the same time -- process specific mix channels, entire [Stems](https://en.wikipedia.org/wiki/Stem_(audio)) or simple sounds through analog equipment -- back into a final digital bounce to disk inside a computer for ease of editing, distribution & storage.
 
@@ -21,5 +31,7 @@ Many companies dedicate large product lines to reproductions of classic analog [
 |-----------------+--------------------+-----------------------------------|
 | ![img](assets/images/nevecommercial.jpg){:width="300px"} | ![img](assets/images/emiconsole02.jpg){:height="420px"} | ![img](assets/images/nevepart.jpg){:width="265px"} |
 |-----------------+--------------------+-----------------------------------|
+
+XXX/TODO: final content section and links to other subpages
 
 

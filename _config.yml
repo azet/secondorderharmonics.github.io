@@ -1,12 +1,12 @@
 # site settings
 title: '<span style="font: 1.1em serif; letter-spacing: -1px; font-weight: lighter; margin: 2px; padding: 5px;">2𝑓</span> ߹ Second Order Harmonics ߹'
-subtitle: "¦ Artisnanal Analog Audio Engineering…"
+subtitle: "…Artisnanal Analog Audio Engineering…"
 email: info@secondorderharmonics.eu
 description: "The Website for high-quality Analog Audio gear & custom builds."
 baseurl: #
 url: secondorderharmonics.com
 author: Aaron Zauner
-street_address: "(&mdash;per&mdash; Second Order Harmonics)<br />Zentaplatz 7/17"
+street_address: "Second Order Harmonics<br />(&mdash;per&mdash; Aaron Zauner)<br />Zentaplatz 7/17"
 city: Vienna
 zip_code: 1050
 country: Austria / EU
@@ -21,8 +21,8 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  Whatsapp: https://wa.link/tifdl9
   Twitter: https://twitter.com/a_z_e_t
+  Whatsapp: https://wa.link/tifdl9
   GitHub: https://github.com/azet
 
 # build settings

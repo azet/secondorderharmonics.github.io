@@ -13,59 +13,58 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Made to Measure &mdash; From tracking to mastering</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>We build the finest pre amplifiers, equalizers and compressors in 500 Series format or as outboard gear. You choose the kind of OpAmp or Transformers you want, special settings, frequencies you'd like to be able to select. Mods for coloration, saturation, compression in units that would usually not offer features like that. We're also happy to mod existing outboard gear to your needs.</p>
+		<p>From tracking to mixing and mastering &mdash; we build, sell and offer design work only using the finest parts and brands in pro-audio. Please get in touch below if you have any questions or projects in mind.</p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/patch.jpg %}" alt="" data-position="center center" />
+		<a href="" class="image">
+			<img src="{% link assets/images/studer01.JPG %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>We rent out our gear and are available for on-site engineering work</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>We have a list of rental gear &mdash; 500 series and outboard, that always comes in shock-proof touring or lightweight travel cases.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="rental.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/amlpre.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/nevepart.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Custom work on outboard &amp; consoles</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Want modifications to existing units or parts of outboard gear, consoles, 500 units? Swap out transformers, fix broken parts or change OpAmps? We'll try to accomodate any changes you need.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="mods.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/500.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/easysummercollage.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Original units &amp; design</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>We build and sell some original designs. We offer design work for custom units that your studio may miss.</p>
+				<p>There's more to come. Check back and stay up to date.</p>
 			</div>
 		</div>
 	</section>
@@ -75,11 +74,11 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Shop on Reverb</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>We sell finished and modded built kits, original parts, mods as well as traditional high end outboard gear, converters, interfaces and studio accessories in our Reverb Stroe</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="https://reverb.com/shop/analog-audio-boutique" class="button next">Reverb Shop</a></li>
 		</ul>
 	</div>
 </section>
