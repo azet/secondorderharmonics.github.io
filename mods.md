@@ -3,7 +3,7 @@ layout: post
 title: Modifications, Fine Tuning and Measurement
 description: 'High-quality modifications, customization work, refurbishment along with tuning and measurement of your analog gear and for your studio projects'
 menu: true
-image: assets/images/modelm.jpg
+image: assets/images/multicore.JPG
 ---
 
 ## Modifications and Custom work

@@ -23,8 +23,8 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="" class="image">
-			<img src="{% link assets/images/studer01.JPG %}" alt="" data-position="center center" />
+		<a href="rental.html" class="image">
+			<img src="{% link assets/images/focusriteisaprodmk2.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -39,13 +39,13 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="mods.html" class="image">
 			<img src="{% link assets/images/nevepart.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Custom work on outboard &amp; consoles</h3>
+					<h3>Custom work on 500 series, outboard &amp; consoles</h3>
 				</header>
 				<p>Want modifications to existing units or parts of outboard gear, consoles, 500 units? Swap out transformers, fix broken parts or change OpAmps? We'll try to accomodate any changes you need.</p>
 				<ul class="actions">
@@ -55,9 +55,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/easysummercollage.jpg %}" alt="" data-position="25% 25%" />
-		</a>
+			<img src="{% link assets/images/ez-opamp-sum-proto.png %}" alt="" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -76,10 +74,16 @@ nav-menu: true
 		<header class="major">
 			<h2>Shop on Reverb</h2>
 		</header>
-		<p>We sell finished and modded built kits, original parts, mods as well as traditional high end outboard gear, converters, interfaces and studio accessories in our Reverb Stroe</p>
+		<p>We sell finished and modded built kits, original parts, specialized audio component mods as well as traditional high end outboard gear, converters, interfaces and studio accessories in our Reverb Store. Check it out:</p>
 		<ul class="actions">
 			<li><a href="https://reverb.com/shop/analog-audio-boutique" class="button next">Reverb Shop</a></li>
 		</ul>
+	</div>
+</section>
+
+<section>
+	<div class="inner">
+		<p><strong>If you have any further questions dont hesitate to contact us below,  look through our website, it's blog post and our shop offerings.</strong></p>
 	</div>
 </section>
 
