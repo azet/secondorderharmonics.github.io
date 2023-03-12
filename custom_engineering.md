@@ -55,7 +55,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
+		<a href="about.html" class="image">
 			<img src="{% link assets/images/ez-opamp-sum-proto.png %}" alt="" data-position="25% 25%" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
