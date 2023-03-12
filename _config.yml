@@ -3,7 +3,7 @@ title: '<span style="font: 1.1em serif; letter-spacing: -1px; font-weight: light
 subtitle: "…Artisnanal Analog Audio Engineering…"
 email: info@secondorderharmonics.com
 description: "The Website for high-quality Analog Audio gear & custom builds."
-baseurl: #
+baseurl: /
 url: secondorderharmonics.com
 author: Aaron Zauner
 street_address: "Second Order Harmonics<br />(&mdash;per&mdash; Aaron Zauner)<br />Zentaplatz 7/17"
