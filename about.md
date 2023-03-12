@@ -44,7 +44,7 @@ We modify 500 series units with Colour Modules, custom OpAmps (vintage or replio
 
 If you have an idea in mind you'd like to get realized just let us know!
 
-### Exmaples
+### Examples
 
 For example: we've recieved requests for custom pre amps with saturation colours or with automation. We've looked into integrating [gcon automation](https://wesaudio.com/gcon-open-system/) into existing 500 modules for customers that own and already use this system in their work flow. 
 
