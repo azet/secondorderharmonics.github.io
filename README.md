@@ -29,6 +29,6 @@ Using the "Forty" Theme by Andrew Banchich: https://jekyllthemes.io/theme/forty-
       
       
 ## Contact
-Please drop me a line via mail to azet@azet.org (if it's site/security/tech/github related) 
+Please drop me a line via mail to azet@azet.org (if it's site/security/tech/github related)     
 or info@secondorderharmonics.com (if it's about audio, building custom outboard or 500 units etc.)
 
