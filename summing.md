@@ -2,7 +2,9 @@
 layout: post
 title: Summing & Bus Compression
 description: Summing resistors, Warmth via Tubes, Transformers and Bus Compression.
-nav-menu: true
+#XXX/TODO: change content and publish
+nav-menu: false
+show_tile: false
 image: assets/images/tubecore02.jpg
 ---
 
