@@ -24,7 +24,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="rental.html" class="image">
-			<img src="{% link assets/images/amlpre.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/focusriteisaprodmk2.JPG %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
