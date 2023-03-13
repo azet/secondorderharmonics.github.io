@@ -46,7 +46,6 @@ We support recording and tracking sessions by setting up, recalibrating, maintai
 You tell us your requirements and corner cases, we provide the equipment and support.
 
 
-| ![img](assets/images/busscat.jpg){:width="335px"} | ![img](assets/images/comp500.jpg){:height="400px"} | ![img](assets/images/patchcombined.jpg){:height="350px"} |
-
+| ![img](assets/images/busscat.jpg){:width="335px"} | ![img](assets/images/comp500.JPG){:height="400px"} | ![img](assets/images/patchcombined.jpg){:height="350px"} |
 Please get in contact below for details on rental pricing, audio engineering session support et cetera.
 
