@@ -47,5 +47,8 @@ You tell us your requirements and corner cases, we provide the equipment and sup
 
 
 | ![img](assets/images/busscat.jpg){:width="335px"} | ![img](assets/images/comp500.JPG){:height="400px"} | ![img](assets/images/patchcombined.jpg){:height="350px"} |
+
+
+
 Please get in contact below for details on rental pricing, audio engineering session support et cetera.
 
