@@ -29,7 +29,7 @@ Many companies dedicate large product lines to reproductions of classic analog [
 |-----------------+--------------------+-----------------------------------|
 | <<Unobtainium>> | ...can't buy EMI's [Abbey Road in a box at auction](https://thevinylfactory.com/features/recording-console-pink-floyd-abbey-road-auction) | [..and Marinair only sells to Neve*](https://www.ams-neve.com/about-marinair) |
 |-----------------+--------------------+-----------------------------------|
-| ![img](assets/images/nevecommercial.jpg){:width="300px"} | ![img](assets/images/emiconsole02.jpg){:height="420px"} | ![img](assets/images/neve-compromise.jpg){:height="420px"} |
+| ![img](assets/images/nevecommercial.jpg){:width="300px"} | ![img](assets/images/emiconsole02.jpg){:height="420px"} | ![img](assets/images/nevecompromise.jpg){:height="420px"} |
 |-----------------+--------------------+-----------------------------------|
 
 ###### * at least that's what AMS-Neve wants you to think, in reality the old and newly incorporated Neve companies went through multiple transformer designs and suppliers --- transformer winding details had been leaked on-line in the years since --- and it's now common knowledge that Marinair stopped producing transformers early on, St Ives and other companies took over production- and was eventually bought by the Carnhill company -- which transformers are found in many Neve clones and other audio products. A short history on Neve transformers can be found *[here by BAE Audio](https://www.youtube.com/watch?v=gTPkDHDp8QQ)*
