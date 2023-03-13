@@ -40,20 +40,20 @@ Many companies dedicate large product lines to reproductions of classic analog [
 ## What we do and can offer
 We build customer made-to-order Clones of vintage Neve, API, EMI/TG Preamplifiers, Equaliziers, compressors in API 500 Series Module format, as Outboard gear and so much more.
 
-We modify 500 series units with Colour Modules, custom OpAmps (vintage or repliocas), refurbish vintage consoles and channel-strips that used to be in consoles, modify them and design our own units and parts as needed.
+We modify 500 series units with Colour Modules, custom OpAmps (vintage, new or modern replicas), refurbish vintage console parts and channel-strips --- that used to be in consoles, modify them and design our own units and parts as needed.
 
 If you have an idea in mind you'd like to get realized just let us know!
 
 ### Examples
 
-For example: we've recieved requests for custom pre amps with saturation colours or with automation. We've looked into integrating [gcon automation](https://wesaudio.com/gcon-open-system/) into existing 500 modules for customers that own and already use this system in their work flow. 
+For example: we've recieved requests for custom pre amps with saturation colours or with automation. We've looked into integrating [gcon automation](https://wesaudio.com/gcon-open-system/) into existing 500 modules for customers that own and already use this system in their production work flows. 
 
-Another example may be a audio routing/patching unit that's remotely controlled for easy recall and chaining of 500 series modules and ourboard gear in the context of a tracking or mixing session.
+Another example may be an audio routing/patching unit that's remotely controlled for easy recall and chaining of 500 series modules and outboard gear in the context of a tracking or mixing session.
 
 
 ## Contact
 
-Just get in contact with us via the contact form below or send an email to [info@secondorderharmonics.eu](mailto:info@secondorderharmonics.eu) with your request. 
+Just get in contact with us via the contact form below or send an email to [info@secondorderharmonics.com](mailto:info@secondorderharmonics.com) with your request. 
 
 Don't forget to check out our [Reverb shop](https://reverb.com/shop/analog-audio-boutique) for finished products or optional mods.
 
