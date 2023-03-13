@@ -8,7 +8,7 @@ nav-menu: true
 
 ## Rental of Analog Gear and tailor made solutions
 
-![img](assets/images/focusriteisaprodmk2.jpg){:height="450px"} ![img](assets/images/tubecore01.jpg){:height="450px"} 
+![img](assets/images/focusriteisaprodmk2.JPG){:height="450px"} ![img](assets/images/tubecore01.jpg){:height="450px"} 
 
 
 We rent out classic outboard gear and primarily pre-amplifiers, EQs and compressors of the now-unobtainable legendary recording consoles of the late 50ies to the mid-80ies. Highly mobile, always racked in robust and shock-proof flight cases, our gear is ready to go whereever it is in demand.
