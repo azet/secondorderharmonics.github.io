@@ -23,7 +23,7 @@
       	  </header>
       	  {% if products.image %}
           <span class="image main">
-              <img src="{% link {{ site.baseurl }}/{{ products.image }} %}" alt="" style="height: auto; width: 40%;" />
+              <img src="{{ site.baseurl }}/{{ products.image }}" alt="" style="height: auto; width: 40%;" />
           </span>
           {% endif %}
       	  {% if products.date %}<p>{{ products.date | date: '%B %d, %Y' }}</p>{% endif %}
