@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %} 
+    
+    
+    <!-- Main -->
+    <div id="main" class="alt">
+
+      <!-- One -->
+      <section id="one">
+      	<div class="inner">
+         <h2>Products &amp; Offers</h2>
+         {% for products in site.posts %}
+      	  {% if products.title != 404 and products.layout == "products" %}
+          <hr style="border: 0.07em dotted darkcyan;" />
+      	  <header class="major">
+      	    <h3>{{ products.title }}</h3>
+      	  </header>
+      	  {% if products.image %}
+          <span class="image main">
+              <img src="{% link {{ site.baseurl }}/{{ products.image }} %}" alt="" style="height: auto; width: 40%;" />
+          </span>
+          {% endif %}
+      	  {% if products.date %}<p>{{ products.date | date: '%B %d, %Y' }}</p>{% endif %}
+      	  <p>{{ products.content }}</p>
+      	  {% endif %}
+         {% endfor %}
+      	</div>
+      </section>
+
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
