@@ -16,7 +16,8 @@
       	<div class="inner">
          <h2>Products &amp; Offers</h2>
          {% for products in site.posts %}
-      	  {% if products.title != 404 and products.layout == "products" %}
+      	  {% if products.title != 404 and products.categories contains "products" %}
+          <a name="{{ products.permalink }}"></a>
           <hr style="border: 0.07em dotted darkcyan;" />
       	  <header class="major">
       	    <h3>{{ products.title }}</h3>
@@ -28,6 +29,7 @@
           {% endif %}
       	  {% if products.date %}<p>{{ products.date | date: '%B %d, %Y' }}</p>{% endif %}
       	  <p>{{ products.content }}</p>
+          <p><a href="{{ site.baseurl }}/all_products.html#{{ products.permalink }}">permalink</a>
       	  {% endif %}
          {% endfor %}
       	</div>

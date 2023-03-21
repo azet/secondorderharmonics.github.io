@@ -1,7 +1,9 @@
 ---
-layout: products
+layout: post
+category: products
 title: "API 312 Clones with mods: parallel compression, tape emulation, transformer saturation."
 image: assets/images/posts/colors-med.jpg
+permalink: linkcolormods
 ---
 
 Today we received our order of colour modules for saturation, coloration and compression for mods to pre amps. 

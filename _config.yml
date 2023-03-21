@@ -36,6 +36,11 @@ collections:
   products:
     output: true
 
+# Outputting
+#permalink: /:categories/:title/
+timezone: Europe/Vienna
+
+
 exclude:
 - "*.gemspec"
 - LICENSE.md
