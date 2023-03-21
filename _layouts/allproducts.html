@@ -29,7 +29,7 @@
           {% endif %}
       	  {% if products.date %}<p>{{ products.date | date: '%B %d, %Y' }}</p>{% endif %}
       	  <p>{{ products.content }}</p>
-          <p><a href="{{ site.baseurl }}/all_products.html#{{ products.permalink }}">permalink</a>
+          <span id="permalink" style="margin: 10px; padding: 8px; border-left: 5px double dimgrey;"><a href="{{ site.baseurl }}/all_products.html#{{ products.permalink }}" alt="{{ products.permalink }}">permalink</a></span>
       	  {% endif %}
          {% endfor %}
       	</div>
