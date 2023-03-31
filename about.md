@@ -53,7 +53,7 @@ Another example may be an audio routing/patching unit that's remotely controlled
 
 ## Contact
 
-Just get in contact with us via the contact form below or send an email to [info@secondorderharmonics.com](mailto:info@secondorderharmonics.com) with your request. 
+Just get in contact with us via the contact form below or send an email to [info@secondorderharmonics.eu](mailto:info@secondorderharmonics.eu) with your request.
 
 #### V-Card
 
