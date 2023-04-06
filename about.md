@@ -21,7 +21,9 @@ image: assets/images/marinairs-trans-bg.png
 
 The reason there's been such a big renaissance of analog gear, love of analog consoles for tracking during big recording sessions as well as mixing is closely related to the fact that they are widely considered to add a certain coloration or <<warmth>> to the sound that's pushed through their ([discrete](https://en.wikipedia.org/wiki/Electronic_component)) circuits, that In-The-Box recording techniques don't. It's the reason behind a big market for analog summing devices, high-end analog-to-digital converters, analog outboard gear as well as hybrid set-up techniques where mix engineers and producers work In-The-Box but -- at the same time -- process specific mix channels, entire [Stems](https://en.wikipedia.org/wiki/Stem_(audio)) or simple sounds through analog equipment -- back into a final digital bounce to disk inside a computer for ease of editing, distribution & storage.
 
-| ![img](assets/images/studer01.JPG){:width="475px;"} | ![img](assets/images/studer02.JPG){:height="460px;"} | ![img](assets/images/studer03.JPG){:width="250px;"} | ![img](assets/images/cleaning.jpg){:height="460px;"} | 
+| ![img](assets/images/studer01.JPG){:height="400px;" :width="auto;"} | ![img](assets/images/studer03.JPG){:height="400px;" :width="auto;"} |  ![img](assets/images/studer02.JPG){:height="400px;" :width="auto;"} |![img](assets/images/aural-exciter-pcb.jpg){:height="400px;" :width="auto;"} |
+
+| ![img](assets/images/workbench.jpg){:height="460px;" :width="auto;"} | ![img](assets/images/aural-exciter.jpg){:height="475px;" :width="auto;"} |
 
 ## Revival of the analog console
 Many companies dedicate large product lines to reproductions of classic analog [Class A](https://en.wikipedia.org/wiki/Power_amplifier_classes) pre-amplifiers, microphones, equalizers, compressors and rack-mountable mixing console [channel-strips](https://en.wikipedia.org/wiki/Channel_strip).
@@ -29,7 +31,7 @@ Many companies dedicate large product lines to reproductions of classic analog [
 |-----------------+--------------------+-----------------------------------|
 | <<Unobtainium>> | ...can't buy EMI's [Abbey Road in a box at auction](https://thevinylfactory.com/features/recording-console-pink-floyd-abbey-road-auction) | [..and Marinair only sells to Neve*](https://www.ams-neve.com/about-marinair) |
 |-----------------+--------------------+-----------------------------------|
-| ![img](assets/images/nevecommercial.jpg){:width="300px"} | ![img](assets/images/emiconsole02.jpg){:height="420px"} | ![img](assets/images/nevecompromise.jpg){:height="420px"} |
+| ![img](assets/images/nevecommercial.jpg){:height="420px" :width="auto;"} | ![img](assets/images/emiconsole02.jpg){:height="420px" :width="auto;"} | ![img](assets/images/nevecompromise.jpg){:height="420px" :width="auto;"} |
 |-----------------+--------------------+-----------------------------------|
 
 ###### * at least that's what AMS-Neve wants you to think, in reality the old and newly incorporated Neve companies went through multiple transformer designs and suppliers --- transformer winding details had been leaked on-line in the years since --- and it's now common knowledge that Marinair stopped producing transformers early on, St Ives and other companies took over production- and was eventually bought by the Carnhill company -- which transformers are found in many Neve clones and other audio products. A short history on Neve transformers can be found *[here by BAE Audio](https://www.youtube.com/watch?v=gTPkDHDp8QQ)*
