@@ -21,7 +21,7 @@ image: assets/images/marinairs-trans-bg.png
 
 The reason there's been such a big renaissance of analog gear, love of analog consoles for tracking during big recording sessions as well as mixing is closely related to the fact that they are widely considered to add a certain coloration or <<warmth>> to the sound that's pushed through their ([discrete](https://en.wikipedia.org/wiki/Electronic_component)) circuits, that In-The-Box recording techniques don't. It's the reason behind a big market for analog summing devices, high-end analog-to-digital converters, analog outboard gear as well as hybrid set-up techniques where mix engineers and producers work In-The-Box but -- at the same time -- process specific mix channels, entire [Stems](https://en.wikipedia.org/wiki/Stem_(audio)) or simple sounds through analog equipment -- back into a final digital bounce to disk inside a computer for ease of editing, distribution & storage.
 
-| ![img](assets/images/studer01.JPG){:height="400px;" :width="auto;"} | ![img](assets/images/studer03.JPG){:height="400px;" :width="auto;"} |  ![img](assets/images/studer02.JPG){:height="400px;" :width="auto;"} |![img](assets/images/aural-exciter-pcb.jpg){:height="400px;" :width="auto;"} |
+| ![img](assets/images/studer01.JPG){:width="270px;" :height="auto;"} | ![img](assets/images/studer03.JPG){:width="190px;" :height="auto;} |  ![img](assets/images/neve-33609.jpg){:height="400px;" :width="auto;"} |![img](assets/images/aural-exciter-pcb.jpg){:height="400px;" :width="auto;"} |
 
 | ![img](assets/images/workbench.jpg){:height="460px;" :width="auto;"} | ![img](assets/images/aural-exciter.jpg){:height="475px;" :width="auto;"} |
 
