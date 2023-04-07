@@ -21,9 +21,6 @@ image: assets/images/marinairs-trans-bg.png
 
 The reason there's been such a big renaissance of analog gear, love of analog consoles for tracking during big recording sessions as well as mixing is closely related to the fact that they are widely considered to add a certain coloration or <<warmth>> to the sound that's pushed through their ([discrete](https://en.wikipedia.org/wiki/Electronic_component)) circuits, that In-The-Box recording techniques don't. It's the reason behind a big market for analog summing devices, high-end analog-to-digital converters, analog outboard gear as well as hybrid set-up techniques where mix engineers and producers work In-The-Box but -- at the same time -- process specific mix channels, entire [Stems](https://en.wikipedia.org/wiki/Stem_(audio)) or simple sounds through analog equipment -- back into a final digital bounce to disk inside a computer for ease of editing, distribution & storage.
 
-| ![img](assets/images/studer01.JPG){:width="270px;" :height="auto;"} | ![img](assets/images/studer03.JPG){:width="190px;" :height="auto;} |  ![img](assets/images/neve-33609.jpg){:height="400px;" :width="auto;"} |![img](assets/images/aural-exciter-pcb.jpg){:height="400px;" :width="auto;"} |
-
-| ![img](assets/images/workbench.jpg){:height="460px;" :width="auto;"} | ![img](assets/images/aural-exciter.jpg){:height="475px;" :width="auto;"} |
 
 ## Revival of the analog console
 Many companies dedicate large product lines to reproductions of classic analog [Class A](https://en.wikipedia.org/wiki/Power_amplifier_classes) pre-amplifiers, microphones, equalizers, compressors and rack-mountable mixing console [channel-strips](https://en.wikipedia.org/wiki/Channel_strip).
@@ -46,12 +43,23 @@ We modify 500 series units with Colour Modules, custom OpAmps (vintage, new or m
 
 If you have an idea in mind you'd like to get realized just let us know!
 
+| ![img](assets/images/studer01.JPG){:width="270px;" :height="auto;"} | ![img](assets/images/studer03.JPG){:width="190px;" :height="auto;"} |  ![img](assets/images/neve-33609.jpg){:height="400px;" :width="auto;"} |![img](assets/images/aural-exciter-pcb.jpg){:height="400px;" :width="auto;"} |
+
+
 ### Examples
 
-For example: we've recieved requests for custom pre amps with saturation colours or with automation. We've looked into integrating [gcon automation](https://wesaudio.com/gcon-open-system/) into existing 500 modules for customers that own and already use this system in their production work flows. 
+For example: we've recieved requests for custom pre amps with saturation colours or with automation.  We've offered interested parties design options for variations on existing 19 inch rackmount outboard gear and 500 series units, from different switched attenuators (knobs) instead of potentiometers (pots) to designing custom PCBs replacing parts of entire units.
+
+We're always interested in hybrid studio set-ups, as they've become the norm in smaller project studios, home studios of artists and even big recording studios - so custom work on summing units, passive and active, has been part of one of our main interests from the beginning. From designing tiny 8-16 Channel summing PCBs to figuring out how to build modular 4-6U summing mixers that can replace entire consoles and operate a 64 channel count and upwards. People have asked for custom input and output stages (incorporating transformers, opamps, hardware plugins and even effect units). Integrating 500 series modules is another interesting goal and we've provided optional design ideas for multiple summing busses than can be fed through stereo 500 series modules that fit within the same chassis for common uses like bus compression or parametric equalization - making them suitable for mixing in a lot of different environments and even for use in mastering work.
 
 Another example may be an audio routing/patching unit that's remotely controlled for easy recall and chaining of 500 series modules and outboard gear in the context of a tracking or mixing session.
 
+As part of our work we've also looked into integrating [gcon automation](https://wesaudio.com/gcon-open-system/) into existing 500 modules for customers that own and already use this system in their production work flows. It's possible to adapt some existing 500 series units with this feature, but highly depends on the unit and vendor. Often it's easier re-desinging an existing circuit - and we offer that service. This has also landed on our project to-do list and might come up as a product or mod kit in the future. But then again, there's so many interesting ideas and projects that have developed as part of our research or customer requests, most depend on customer- or general  market interest in a finished product as long R&D processes are very time consuming and often require quite a bit of capital to work on. Other projects are fairly cheap to implement or even mass produce and given interest will show up more frequently. 
+
+Most of our work still focuses around building high quality DIY kits of outboard gear or 500 series units with the best audio components from the most reliable manufacturers we know of - and of course - a beautiful DIY design to work on in the first place. There are so many.
+
+
+| ![img](assets/images/workbench.jpg){:height="460px;" :width="auto;"} | ![img](assets/images/aural-exciter.jpg){:height="475px;" :width="auto;"} |
 
 ## Contact
 
