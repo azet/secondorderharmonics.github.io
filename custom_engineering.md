@@ -17,6 +17,7 @@ nav-menu: true
 		</header>
 		<p>We build the finest pre amplifiers, equalizers and compressors in 500 Series format or as outboard gear. You choose the kind of OpAmp or Transformers you want, special settings, frequencies you'd like to be able to select. Mods for coloration, saturation, compression in units that would usually not offer features like that. We're also happy to mod existing outboard gear to your needs.</p>
 		<p>From tracking to mixing and mastering &mdash; we build, sell and offer design work only using the finest parts and brands in pro-audio. Please get in touch below if you have any questions or projects in mind.</p>
+		<span data-position="center"><img src="{% link assets/images/russiantubes.jpg %}" alt="tubes are cool!" style="opacity: 0.75; width: 50%; padding-block: 25px;" /></span>
 	</div>
 </section>
 
@@ -74,12 +75,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Shop on Reverb</h2>
+			<h2>Get in contact</h2>
 		</header>
-		<p>We sell finished and modded built kits, original parts, specialized audio component mods as well as traditional high end outboard gear, converters, interfaces and studio accessories in our Reverb Store. Check it out:</p>
-		<ul class="actions">
-			<li><a href="https://reverb.com/shop/analog-audio-boutique" class="button next">Reverb Shop</a></li>
-		</ul>
+		<p>We sell finished and modded built kits, original parts, specialized audio component mods as well as traditional high end outboard gear, converters, interfaces and studio accessories - contact us now!</p>
 	</div>
 </section>
 

@@ -10,11 +10,11 @@ street_address: "Second Order Harmonics<br />(&mdash;per&mdash; Aaron Zauner)<br
 city: Vienna
 zip_code: 1050
 country: Austria / EU
-phone: "+49 221 59619 7660"
+phone: "+43 664 639 4757"
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 7
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands

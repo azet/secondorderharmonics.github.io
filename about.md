@@ -67,9 +67,7 @@ Just get in contact with us via the contact form below or send an email to [info
 
 #### V-Card
 
-![img](assets/images/vcard.png)
+![img](assets/images/vcard.png){:height="350px;" :width="auto;"}
 
 
-
-Don't forget to check out our [Reverb shop](https://reverb.com/shop/analog-audio-boutique) for finished products or optional mods.
 
