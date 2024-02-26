@@ -4,7 +4,7 @@ subtitle: "…Artisnanal Analog Audio Engineering…"
 email: info@secondorderharmonics.eu
 description: "The Website for high-quality Analog Audio gear & custom builds."
 baseurl: ""
-url: https://secondorderharmonics.com
+url: https://secondorderharmonics.eu
 author: Aaron Zauner
 street_address: "Second Order Harmonics<br />(&mdash;per&mdash; Aaron Zauner)<br />Zentaplatz 7/17"
 city: Vienna
@@ -23,6 +23,7 @@ tiles-count: 7
 socials:
   Facebook: https://www.facebook.com/profile.php?id=100090381861518
   Twitter: https://twitter.com/a_z_e_t
+  Mastodon: https://chaos.social/@azet
   Whatsapp: https://wa.link/tifdl9
   GitHub: https://github.com/azet
 
@@ -46,3 +47,5 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+
+#EOF
