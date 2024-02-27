@@ -8,7 +8,7 @@ author: 'Aaron Zauner'
 show_tile: false
 ---
 
-Welcome to **secondorderharmonics.com/.eu/.net/.at** &mdash; find out more [about us, our work and passion](/about.html).
+Welcome to **secondorderharmonics.com/.eu** &mdash; find out more [about us, our work and passion](/about.html).
 
 
 **or go directly to:**

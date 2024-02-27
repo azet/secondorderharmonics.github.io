@@ -13,3 +13,4 @@ end
 
 gem "gem", "~> 0.0.1.alpha"
 gem "faraday-retry", "~> 2.1"
+
