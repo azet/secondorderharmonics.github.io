@@ -1,4 +1,4 @@
-# secondorderharmonics.com / .eu / .at / .net
+# secondorderharmonics.com / .eu
 Only the very best in analog equipment for the digital age
 
 ## Jeykll Theme
